@@ -23,6 +23,7 @@ const jack = {
   quirk: "My terminal feels like 127.0.0.1 to me <3",
   contactMe: {
     "discord": "JackofSpades#3057",
-  }
+  },
+  university: [WGU](https://www.wgu.edu/),
 }
 ```
