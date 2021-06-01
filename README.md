@@ -24,6 +24,6 @@ const jack = {
   contactMe: {
     "discord": "JackofSpades#3057",
   },
-  university: [WGU](https://www.wgu.edu/),
-}
+  university: <a href="https://wgu.edu">WGU</a>,
+},
 ```
