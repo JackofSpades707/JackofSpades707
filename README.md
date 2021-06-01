@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 const jack = {
   code: [Python, JavaScript, Bash, Go, SQL, HTML, CSS],
   interests: ["linux", "pypy", "cython", "xonsh", "vim", "frida", "fullstack", "docker", "qemu", "wsl", "cybersec", "electron"],
-  tuition: {
+  education: {
     university: "WGU",
     degreeProgram: "https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html",
   },
