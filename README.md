@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! If you like code/linux, feel free to connect with me :)
 
 <!--
 **JackofSpades707/JackofSpades707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,14 @@ const jack = {
   contactMe: {
     "discord": "JackofSpades#3057",
   },
-  university: WGU,
+  tuition: {
+    university: "WGU",
+    degreeProgram: "https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html",
+  },
+  currentOccupation: {
+    title: "Full Stack E-Commerce Dev",
+    roles: ["Database design", "Internal API design", "Security implementations", "3rd party API implementations", "UI improvements", "Overall Functionality"],
+    primaryRole: "Functionality",
+  },
 },
 ```
