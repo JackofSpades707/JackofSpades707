@@ -26,7 +26,7 @@ const jack = {
     title: "Full Stack E-Commerce Dev",
     roles: ["Database design", "Internal API design", "Security implementations", "3rd party API implementations", "UI improvements", "Overall Functionality"],
   },
-  funFact: "Did you know you can use qemu on linux paired with a PCI passthrough to have ~98% native speed with gaming using a VM?",
+  funFact: "Did you know you can use qemu on linux paired with a PCI passthrough has ~98% native speed with gaming using a VM?",
   quirk: "My terminal feels like 127.0.0.1 to me <3",
   contactMe: {
     "discord": "JackofSpades#3057",
