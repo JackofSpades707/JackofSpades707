@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
+const jack = {
+  code: [Python, JavaScript, Bash, Go, SQL, HTML, CSS],
+  interests: ["linux", "pypy", "cython", "xonsh", "vim", "frida", "fullstack", "docker", "qemu"],
+  favoriteDistro: "Arch Linux",
+  funFact: "Did you know you can use qemu on linux paired with a PCI passthrough + synergy to have ~98% native speed with gaming using an emulated VM with qemu?",
+  quirk: "My terminal feels like 127.0.0.1 to me <3",
+  contactMe: {
+    "discord": "JackofSpades#3057",
+  }
+}
+```
