@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```javascript
 const jack = {
   code: [Python, JavaScript, Bash, Go, SQL, HTML, CSS],
-  interests: ["linux", "pypy", "cython", "xonsh", "vim", "frida", "fullstack", "docker", "qemu", "wsl"],
+  interests: ["linux", "pypy", "cython", "xonsh", "vim", "frida", "fullstack", "docker", "qemu", "wsl", "cybersec"],
   favoriteOS: "Arch Linux",
   funFact: "Did you know you can use qemu on linux paired with a PCI passthrough to have ~98% native speed with gaming using a VM?",
   quirk: "My terminal feels like 127.0.0.1 to me <3",
