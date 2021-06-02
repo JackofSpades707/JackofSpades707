@@ -20,6 +20,7 @@ const jack = {
   education📚: {
     university: "WGU",
     degreeProgram: "https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html",
+    status: "Enrolled",
   },
   work📋: {
     title: "Full Stack E-Commerce Dev",
