@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 -->
 ```javascript
 const jack = {
-  code: [Python, JavaScript, Bash, Go, SQL, HTML, CSS],
-  letsTalkAbout: ["best practices", "linux", "pypy", "cython", "xonsh", "vim", "frida", "code injection", "fullstack", "docker", "qemu", "wsl", "cybersec", "electron"],
-  education: {
+  code🖥️: [Python, JavaScript, Bash, Go, SQL, HTML, CSS],
+  education📚: {
     university: "WGU",
     degreeProgram: "https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html",
   },
-  currentOccupation: {
+  work📋: {
     title: "Full Stack E-Commerce Dev",
     primaryRole: "Backend Dev"
   },
-  funFact: "Did you know you can use qemu on linux paired with a PCI passthrough has ~98% native speed with gaming using a VM?",
-  quirk: "My terminal feels like 127.0.0.1 to me <3",
-  contactMe: {
+  funFact⚡: "Did you know you can use qemu on linux paired with a PCI passthrough has ~98% native speed with gaming using a VM?",
+  quirk😄: "My terminal feels like 127.0.0.1 to me <3",
+  contactMe💬: {
     "discord": "JackofSpades#3057",
   },
 },
