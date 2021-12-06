@@ -1,12 +1,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-stack%20developer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Learn%20everything%20about%20something;Learn%20something%20about%20everything&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">   </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=>_%20Software-developer;7%2B%20years%20of%20experience;Always%20learning%20new%20things;Learn%20everything%20about%20something;Learn%20something%20about%20everything&font=Fira%20Code&center=true&width=440&height=45&color=79ff97&vCenter=true&size=22">   </a>
 </p>
 
 <!-- Github Stats -->
 <p align="center">
-  <a href="https://github.com/JackofSpades707"><img src="https://github-readme-stats.vercel.app/api?username=JackofSpades707&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"></a>
+  <a href="https://github.com/JackofSpades707"><img src="https://github-readme-stats.vercel.app/api?username=JackofSpades707&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true"></a>
 </p>
 
 
